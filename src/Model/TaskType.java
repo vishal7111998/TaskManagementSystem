@@ -4,5 +4,5 @@ public enum TaskType {
 	FEATURE,
 	DEV,
 	TEST,
-	QA;
+	QA; 
 }

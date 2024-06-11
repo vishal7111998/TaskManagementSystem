@@ -12,6 +12,7 @@ public class Task {
 	private User assignedUser;
 	private PriorityLevel priorityLevel;
 	
+	
 	public Task(String id, String title, String des) {
 		this.id = id;
 		this.title = title;
